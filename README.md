@@ -1,6 +1,6 @@
 # Dinamika Penumpukan Sampah di TPS dan Pengangkutan oleh Truk
 
-Tugas Pemodelan dan Simulasi Sistem Dinamik (Teknik Informatika, UNIBBA).
+Tugas Pemodelan dan Simulasi 1.
 Simulasi volume sampah di Tempat Penampungan Sementara (TPS) dengan jadwal pengangkutan truk, memakai Python (`odeint` dari SciPy).
 
 ## Model
@@ -41,4 +41,4 @@ Semua nilai parameter adalah data asumsi untuk keperluan simulasi.
 - Skenario A: volume naik turun antara 5 dan 15 m³, tidak pernah melebihi kapasitas.
 - Skenario B: TPS melebihi kapasitas mulai sekitar hari ke-7, volume mencapai 55 m³ pada hari ke-19.
 
-Link video tutorial: (isi link YouTube)
+Link video tutorial: 
